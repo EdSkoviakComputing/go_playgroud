@@ -1,3 +1,3 @@
-module eskoviak.com/hello
+module go_playgroud
 
-go 1.18
+go 1.13
